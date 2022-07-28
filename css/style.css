@@ -44,7 +44,7 @@ background:rgba(0,0,0,0.6);
         height: 20%;
     }
 .bg-dark{
-    height: 40vh;
+    height: 30vh;
 }
 .fa-brands{
     color: white;
@@ -69,5 +69,5 @@ background:rgba(0,0,0,0.6);
         flex-direction: column;
         
     }
-    
+
 }
