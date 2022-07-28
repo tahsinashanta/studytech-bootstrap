@@ -1,0 +1,73 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.carousel-item> img{
+    height: 80vh;
+    width: 70vw;
+}
+.carousel-item::before{
+content:"";
+position: absolute;
+top: 0;
+right: 0;
+left: 0;
+bottom: 0;
+background:rgba(0,0,0,0.6);
+}
+.carousel-caption h1{
+    
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+.carousel-caption p{
+    
+    padding-bottom: 10px;
+}
+
+.text{
+    font-size: 10px;
+    
+}
+.accordion-button{
+    font-size: .75rem;
+}
+.accordion-body > p{
+    font-size: .60rem;
+}
+.company-images img{
+        width:100%;
+        height: 20%;
+    }
+.bg-dark{
+    height: 40vh;
+}
+.fa-brands{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    article > div{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+}
