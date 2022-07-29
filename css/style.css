@@ -7,7 +7,7 @@ img{
     max-width: 100%;
 }
 
-.img-brightness{
+.img-dark-filter{
     filter: brightness(50%);
 }
 .carousel-caption h1{
