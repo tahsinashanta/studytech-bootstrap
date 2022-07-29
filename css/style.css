@@ -10,15 +10,15 @@ img{
 .img-dark-filter{
     filter: brightness(50%);
 }
-.carousel-caption h1{
+/* .carousel-caption h1{
     
     font-size: 50px;
     padding-bottom: 10px;
-}
-.carousel-caption p{
+} */
+/* .carousel-caption p{
     
     padding-bottom: 10px;
-}
+} */
 
 .text{
     font-size: 10px;
@@ -33,6 +33,10 @@ img{
 
 .bg-dark{
     height: 30vh;
+}
+.course-img{
+    width: 80vw;
+    height: 70vh;
 }
 
 
