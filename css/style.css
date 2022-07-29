@@ -6,10 +6,7 @@ body{
 img{
     max-width: 100%;
 }
-.carousel-item> img{
-    height: 80vh;
-    width: 70vw;
-}
+
 .img-brightness{
     filter: brightness(50%);
 }
